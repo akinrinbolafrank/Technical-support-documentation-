@@ -1,9 +1,4 @@
-████████╗███████╗ ██████╗██╗  ██╗██╗   ██╗
-╚══██╔══╝██╔════╝██╔════╝██║ ██╔╝██║   ██║
-   ██║   █████╗  ██║     █████╔╝ ██║   ██║
-   ██║   ██╔══╝  ██║     ██╔═██╗ ██║   ██║
-   ██║   ███████╗╚██████╗██║  ██╗╚██████╔╝
-   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝
+https://github.com/akinrinbolafrank/Technical-support-documentation-/blob/main/Help%20desk%20workflow%20logo.png
 
 ### Technical Support Documentation Portfolio
 
