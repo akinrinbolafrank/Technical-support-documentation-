@@ -1,4 +1,4 @@
-<img src="https://github.com/akinrinbolafrank/Technical-support-documentation-/blob/main/Help%20desk%20workflow%20logo.png?raw=true"/>
+<img src="https://github.com/akinrinbolafrank/Technical-support-documentation-/blob/main/Help%20desk%20workflow%20logo.png?raw=true" width="200" />
 
 ### Technical Support Documentation Portfolio
 
