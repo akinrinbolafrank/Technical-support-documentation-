@@ -1,3 +1,12 @@
+████████╗███████╗ ██████╗██╗  ██╗██╗   ██╗
+╚══██╔══╝██╔════╝██╔════╝██║ ██╔╝██║   ██║
+   ██║   █████╗  ██║     █████╔╝ ██║   ██║
+   ██║   ██╔══╝  ██║     ██╔═██╗ ██║   ██║
+   ██║   ███████╗╚██████╗██║  ██╗╚██████╔╝
+   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝
+
+### Technical Support Documentation Portfolio
+
 # Technical Support Documentation Portfolio
 
 This repository showcases my practical experience as a Help Desk Analyst and IT Support professional. It includes real-world troubleshooting workflows, simulated support tickets, and API documentation that demonstrate my ability to diagnose issues, communicate clearly, and resolve technical problems efficiently. The goal is to provide employers with a clear, structured view of my technical abilities and workflow style.
